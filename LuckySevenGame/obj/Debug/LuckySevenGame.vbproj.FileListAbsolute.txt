@@ -1,0 +1,12 @@
+S:\WORKSPACE\UNINTER\C#\workspace\LuckySevenGameSln\LuckySevenGame\bin\Debug\LuckySevenGame.exe.config
+S:\WORKSPACE\UNINTER\C#\workspace\LuckySevenGameSln\LuckySevenGame\bin\Debug\LuckySevenGame.exe
+S:\WORKSPACE\UNINTER\C#\workspace\LuckySevenGameSln\LuckySevenGame\bin\Debug\LuckySevenGame.pdb
+S:\WORKSPACE\UNINTER\C#\workspace\LuckySevenGameSln\LuckySevenGame\bin\Debug\LuckySevenGame.xml
+S:\WORKSPACE\UNINTER\C#\workspace\LuckySevenGameSln\LuckySevenGame\obj\Debug\LuckySevenGame.vbproj.AssemblyReference.cache
+S:\WORKSPACE\UNINTER\C#\workspace\LuckySevenGameSln\LuckySevenGame\obj\Debug\LuckySevenGame.Form1.resources
+S:\WORKSPACE\UNINTER\C#\workspace\LuckySevenGameSln\LuckySevenGame\obj\Debug\LuckySevenGame.Resources.resources
+S:\WORKSPACE\UNINTER\C#\workspace\LuckySevenGameSln\LuckySevenGame\obj\Debug\LuckySevenGame.vbproj.GenerateResource.cache
+S:\WORKSPACE\UNINTER\C#\workspace\LuckySevenGameSln\LuckySevenGame\obj\Debug\LuckySevenGame.vbproj.CoreCompileInputs.cache
+S:\WORKSPACE\UNINTER\C#\workspace\LuckySevenGameSln\LuckySevenGame\obj\Debug\LuckySevenGame.exe
+S:\WORKSPACE\UNINTER\C#\workspace\LuckySevenGameSln\LuckySevenGame\obj\Debug\LuckySevenGame.xml
+S:\WORKSPACE\UNINTER\C#\workspace\LuckySevenGameSln\LuckySevenGame\obj\Debug\LuckySevenGame.pdb
